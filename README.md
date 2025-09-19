@@ -1,4 +1,4 @@
-# 🛢️ AgenMita — Sistem Manajemen Agen Minyak Tanah
+# 🛢️ AgenMitan — Sistem Manajemen Agen Minyak Tanah
 
 > **Aplikasi web modern untuk mencatat transaksi bongkar muatan, manajemen pangkalan, kendaraan, sopir, kondektur, dan laporan — dengan antarmuka responsif, notifikasi Telegram otomatis, dan laporan PDF siap cetak.**
 
